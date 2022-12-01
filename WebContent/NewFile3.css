@@ -1,0 +1,84 @@
+@CHARSET "ISO-8859-1";
+#first
+{
+float:left;
+}
+#second
+{
+float:left;
+}
+#third
+{
+float:left;
+}
+#four
+{
+float:left;
+}
+#first,#second,#third,#four{
+margin:30px;
+}
+#fifth
+{
+position:absolute;
+margin-top:3px;
+margin-left:990px;
+}
+@CHARSET "ISO-8859-1";
+body   
+{  
+height: 125vh;  
+margin-top:40px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {  
+background-color: #000080;  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 50px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+}  
+header * {  
+display: inline;  
+}  
+header li {  
+color: white;  
+text-decoration: none;  
+margin-top:5px;
+margin-left:0px;
+margin-right:4px;
+}   
+*{
+font-size:17px;
+}
+input{
+font-size:17px;
+}
+h5{
+color:white;
+background-color:#000080;
+display: inline;  
+margin: 15px;    
+color: white;  
+text-decoration: none;  
+}
+legend
+{
+background-color:#000080;
+color:white;
+}
+fieldset{
+border:#000080 3px solid;
+display: block;
+}
+header li a {  
+color: white;  
+text-decoration: none;  
+}
+@CHARSET "ISO-8859-1";
