@@ -5,8 +5,7 @@
 <head>
 <style type="text/css">
 *{
-font-size:25px;
-}
+    font-size:25px;}
 .no-background {
     background: url("images/thumb.jpg")top left no-repeat;
     height:1000em;
